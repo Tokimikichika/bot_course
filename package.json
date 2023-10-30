@@ -9,11 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "node-telegram-bot-api": "^0.63.0",
     "nodemon": "^3.0.1"
-  }
+  },
+  "description": ""
 }
-
-
